@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bt/Documents/GITHUB/machine_learning/Machine_Learning/mlruns/0/79ec4aa975a94b8e886f3fc6773ada8c/artifacts
+end_time: 1610733248527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 79ec4aa975a94b8e886f3fc6773ada8c
+run_uuid: 79ec4aa975a94b8e886f3fc6773ada8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1610733248406
+status: 3
+tags: []
+user_id: bt
